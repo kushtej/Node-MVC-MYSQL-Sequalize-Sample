@@ -1,7 +1,7 @@
 const config = {
     host: 'localhost',
     user: 'root',
-    password: 'vtiger',
+    password: 'root',
     database: 'node_mvc_crud',
     dialect: 'mysql'
 };
